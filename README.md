@@ -1,2 +1,2 @@
 # adarshjha2
-This is my second Respository.
+This is my second Git Respository.
